@@ -1,0 +1,14 @@
+.article {
+  padding: 10px 25px;
+  margin: 10px;
+  box-shadow: 0 0 3px #666666;
+}
+
+.link-button {
+  display: inline-block;
+}
+
+input[type=submit] {
+  margin-left: 20px;
+}
+
